@@ -1,2 +1,3 @@
 name: Trum Cut Chan
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
